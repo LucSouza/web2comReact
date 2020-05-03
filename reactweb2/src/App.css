@@ -1,0 +1,12 @@
+.App{
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+ 
+}
+
+.Cards{
+    display: flex;
+    flex-wrap: wrap;
+}
